@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://luedoonohy.clemensbuchegger.com/sitemap.xml
